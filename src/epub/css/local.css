@@ -29,11 +29,6 @@ p span.i1{
 	padding-left: 2em;
 	text-indent: -1em;
 }
-
-p span.i2{
-	padding-left: 3em;
-	text-indent: -1em;
-}
 /* End poetry */
 
 /* All epigraphs */
@@ -42,40 +37,18 @@ p span.i2{
 	hyphens: none;
 	-epub-hyphens: none;
 }
-
-[epub|type~="epigraph"] em,
-[epub|type~="epigraph"] i{
-	font-style: normal;
-}
-
-[epub|type~="epigraph"] cite{
-	font-style: normal;
-	font-variant: small-caps;
-	margin-top: 1em;
-}
-
-[epub|type~="epigraph"] cite i{
-	font-style: italic;
-}
 /* End all epigraphs */
 
 /* Epigraphs in section headers */
-article > header [epub|type~="epigraph"],
-section > header [epub|type~="epigraph"]{
+article > header [epub|type~="epigraph"]{
 	display: inline-block;
 	margin: auto;
 	max-width: 80%;
 	text-align: initial;
 }
 
-article > header [epub|type~="epigraph"] + *,
-section > header [epub|type~="epigraph"] + *{
-	margin-top: 3em;
-}
-
 @supports(display: table){
-	article > header [epub|type~="epigraph"],
-	section > header [epub|type~="epigraph"]{
+	article > header [epub|type~="epigraph"]{
 		display: table;
 	}
 }
@@ -89,15 +62,7 @@ section > header [epub|type~="epigraph"] + *{
 	text-align: justify;
 	text-indent: 0;
 }
-
-[epub|type~="bridgehead"] i{
-	font-style: normal;
-}
-
-[epub|type~="z3998:hymn"] [epub|type~="bridgehead"],
-[epub|type~="z3998:poem"] [epub|type~="bridgehead"],
-[epub|type~="z3998:song"] [epub|type~="bridgehead"],
-[epub|type~="z3998:verse"] [epub|type~="bridgehead"]{
+[epub|type~="z3998:poem"] [epub|type~="bridgehead"]{
 	text-align: justify;
 }
 /* End bridgeheads */
