@@ -62,6 +62,7 @@ article > header [epub|type~="epigraph"]{
 	text-align: justify;
 	text-indent: 0;
 }
+
 [epub|type~="z3998:poem"] [epub|type~="bridgehead"]{
 	text-align: justify;
 }
