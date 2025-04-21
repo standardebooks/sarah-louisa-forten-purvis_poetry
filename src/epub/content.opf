@@ -38,6 +38,7 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh85123315</meta>
 		<meta property="se:subject">Poetry</meta>
+		<meta property="se:is-a-collection">true</meta>
 		<dc:description id="description">A collection of poems by Sarah Louisa Forten Purvis.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/sarah-louisa-forten-purvis"&gt;Sarah Louisa Forten Purvis&lt;/a&gt; was a black abolitionist poet active in the 1830s. Daughter of the wealthy abolitionist and businessman James Forten, she was one of the cofounders of the Philadelphia Female Anti-Slavery Society with her mother and sisters. She contributed several poems as a correspondent to William Lloyd Garrison’s abolitionist newspaper, &lt;i&gt;The Liberator&lt;/i&gt;, under the pen names “Ada” and “Magawisca.” Forten Purvis’s poems, though few in number, have been the subject of considerable academic analysis for their depiction of the intersectional relationship between blackness and femininity. For instance, her poem “An Appeal to Women” was read to attendees of an antislavery convention for women and appealed to white women through their shared experience of femininity to join black women in the struggle against slavery.&lt;/p&gt;
