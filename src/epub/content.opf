@@ -58,7 +58,7 @@
 		<dc:source>https://archive.org/details/sim_liberator_1835-06-27_5_26</dc:source>
 		<dc:source>https://archive.org/details/sim_cincinnati-weekly-herald-and-philanthropist_1836-03-11_1_11</dc:source>
 		<meta property="se:production-notes">This production follows the bibliography research of Todd S. Gernes, published in “Poetic Justice,” The New England Quarterly, Vol. 71, No. 2, pp. 229-265.</meta>
-		<meta property="se:word-count">2457</meta>
+		<meta property="se:word-count">2385</meta>
 		<meta property="se:reading-ease.flesch">83.09</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/sarah-louisa-forten-purvis_poetry</meta>
 		<dc:creator id="author">Sarah Louisa Forten Purvis</dc:creator>
